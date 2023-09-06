@@ -11,4 +11,4 @@ if ((rem < 6) and (rem != 0)):
 elif (rem > 5):
     print("and is greater than 5")
 else:
-    print("and is 0") 
+    print("and is 0")
